@@ -55,7 +55,7 @@ yarn dev
 
 👤 **徐小夕**
 
-* Website for demo: http://dooring.vip/drag_demo
+* Website for demo: https://dooring.vip/drag_demo
 * Github: [MrXujiang](https://github.com/MrXujiang)
 
 ## Show your support
